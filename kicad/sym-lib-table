@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name tiny-idb-rescue)(type Legacy)(uri /home/user/buildspace/projects/tiny-idb/kicad/tiny-idb-rescue.lib)(options "")(descr ""))
+  (lib (name led_dot_matrix)(type Legacy)(uri ${KIPRJMOD}/lib/led_dot_matrix.lib)(options "")(descr ""))
+)
